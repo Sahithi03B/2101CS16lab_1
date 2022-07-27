@@ -17,6 +17,8 @@ int main() {
     break;
     case 2: printf("%.1f\n",i-j);
     break;
+    case 3: printf("%.1f\n",i*j);
+    break;
     return 0;
    }
 }
