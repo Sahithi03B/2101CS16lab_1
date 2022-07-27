@@ -13,7 +13,6 @@ int main() {
    scanf("%d",&n);
    switch(n){
     /*Addition*/
-    // hello world
     case 1: printf("%.1f\n",i+j);
     break;
     return 0;
