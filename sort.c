@@ -27,7 +27,7 @@ void selectionSort(int arr[], int n) {
                 minIndex = j;
             }
         }
-        
+        //selection sort
         if (minIndex != i) {
             int temp = arr[i];
             arr[i] = arr[minIndex];
