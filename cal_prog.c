@@ -15,6 +15,8 @@ int main() {
     /*Addition*/
     case 1: printf("%.1f\n",i+j);
     break;
+    case 2: printf("%.1f\n",i-j);
+    break;
     return 0;
    }
 }
